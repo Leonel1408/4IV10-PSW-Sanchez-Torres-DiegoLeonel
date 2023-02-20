@@ -1,19 +1,30 @@
 header {
     text-align: center;
-    font-family: 'Dosis', sans-serif;
+}
+html, body {
+    background-color:#fa7878;
+}
+.main-container {
+    border: 3px solid #270faf;
+    border-radius: 50px;
+    margin: 2rem;
+    background-color: #a6afff;
+    padding: 1px;
+    color: #001931;
+    font-family: "Gill Sans", sans-serif;
 }
 .nombre {
     line-height: 0%;
 }
-main {
-    font-family: 'Dosis', sans-serif;
+.dg li::marker {
+    color: #ff7113;
 }
-ol li::marker {
-    color: #0e6fc9;
+.ex li::marker {
+    color: #0160b9;
 }
-.uno li::marker {
-    color: #6dd64d;
+.hb li::marker {
+    color: #145500;
 }
-.dos li::marker {
-    color: #D2228C;
+.hd li::marker {
+    color: #b10505;
 }

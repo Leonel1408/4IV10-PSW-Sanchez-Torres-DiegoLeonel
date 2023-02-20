@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: #2ec0f9;
+    text-align: center;    
+}
+
+html, body {
+    background-color:#9d87ff;
+}
+
+.main-container {
+    border: 3px solid #36b5ff;
+    border-radius: 50px;
+    margin: 2rem;
+    background-color: #a6ffdd;
+    padding: 1px;
+}
+
+nav, section, footer, aside, article, header {
+    border: 2px solid #ffe1bf;
+    margin: 1rem;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+article, aside {
+    width: 45%;
+    display: inline-flex;
+    height: 300px;
+    padding: 1rem;
+}
+nav, footer, section {
+    background-color: #a778ff;
+}
