@@ -1,11 +1,11 @@
 html, body {
-    background-color:#6151b9;
+    background-color:#6f6d77;
 }
 .container {
     border: 3px solid #246f9b;
     border-radius: 10px;
     margin: 2rem;
-    background-color: #d3facb;
+    background-color: #d7daff;
     padding: 3px;
     font-family: "Gill Sans", sans-serif;
 }
