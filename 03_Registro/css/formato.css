@@ -1,0 +1,11 @@
+html, body {
+    background-color:#6151b9;
+}
+.container {
+    border: 3px solid #246f9b;
+    border-radius: 10px;
+    margin: 2rem;
+    background-color: #d3facb;
+    padding: 3px;
+    font-family: "Gill Sans", sans-serif;
+}
