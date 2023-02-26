@@ -4,3 +4,19 @@ body {
     font-size: 11px;
     color: #020418;
 }
+.PS {
+    border: 3px solid #270faf;
+    border-radius: 15px;
+    margin: 2rem;
+    background-color: #a6afff;
+    padding: 1px;
+    color: #001931;
+}
+.PSC {
+    border: 3px solid #270faf;
+    border-radius: 15px;
+    margin: 2rem;
+    background-color: #a6afff;
+    padding: 1px;
+    color: #001931;
+}
